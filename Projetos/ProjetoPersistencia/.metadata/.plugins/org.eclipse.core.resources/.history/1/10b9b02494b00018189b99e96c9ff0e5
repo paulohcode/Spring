@@ -1,0 +1,39 @@
+package br.com.alfa.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "empresa")
+public class Empresa {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "codigo", nullable = false, length = 11)
+	private Long codigo;
+	
+	@Column(name = "codigo", nullable = false, length = 11)
+	private String nomeFantasia;
+	private String razaoSocial;
+	private String email;
+	private String cnpj;
+	private String endereco;
+	private String telefone;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+}

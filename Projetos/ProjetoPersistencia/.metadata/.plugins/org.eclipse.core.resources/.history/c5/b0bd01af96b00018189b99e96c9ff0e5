@@ -1,0 +1,5 @@
+package br.com.alfa.service;
+
+public class EmpresaService {
+
+}

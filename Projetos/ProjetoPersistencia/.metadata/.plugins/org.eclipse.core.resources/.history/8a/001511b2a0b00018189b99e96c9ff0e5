@@ -1,0 +1,8 @@
+package br.com.alfa.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class EmpresaController {
+
+}

@@ -1,0 +1,8 @@
+127.0.0.1 - - [04/Sep/2018:21:42:06 -0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:21:42:07 -0300] "GET /persistencia/ HTTP/1.1" 200 166
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:21:43:21 -0300] "GET /persistencia/ HTTP/1.1" 200 166
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:21:43:22 -0300] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:21:44:04 -0300] "GET /persistencia/empresas HTTP/1.1" 200 12
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:21:53:55 -0300] "POST /persistencia/empresas HTTP/1.1" 200 70
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:22:00:07 -0300] "POST /persistencia/empresas HTTP/1.1" 500 21051
+0:0:0:0:0:0:0:1 - - [04/Sep/2018:22:01:01 -0300] "GET /persistencia/empresas HTTP/1.1" 200 215

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\spring\ProjetoPersistencia\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2878482934.index
+1857579926.index
+519569772.index
+3638182830.index
+4270358237.index
+4012477446.index

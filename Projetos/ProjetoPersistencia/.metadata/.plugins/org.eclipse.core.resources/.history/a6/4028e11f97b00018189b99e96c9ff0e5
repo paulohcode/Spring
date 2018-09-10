@@ -1,0 +1,18 @@
+package br.com.alfa.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import br.com.alfa.dao.EmpresaDAO;
+
+@Service
+public class EmpresaService {
+	
+	@Autowired
+	private EmpresaDAO dao;
+	
+	public void salvar() {
+		
+	}
+
+}

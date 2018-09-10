@@ -1,0 +1,13 @@
+package br.com.alfa.util;
+
+public class CustomResponse implements ICustomResponse {
+
+	private String message;
+	
+	
+	@Override
+	public Boolean getSuccess() {
+		return null;
+	}
+
+}

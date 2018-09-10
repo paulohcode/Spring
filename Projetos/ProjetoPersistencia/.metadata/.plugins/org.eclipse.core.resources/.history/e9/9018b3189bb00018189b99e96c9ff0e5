@@ -1,0 +1,15 @@
+package br.com.alfa.util;
+
+public class CustomResponse implements ICustomResponse {
+
+	private String message;
+	private String success;
+	public CustomResponse(String message, String success) {
+		super();
+		this.message = message;
+		this.success = success;
+	}
+	
+
+
+}
