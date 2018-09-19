@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
 C:\spring\ProjetoPersistencia\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\461696273.index
 \persistencia\src\main\java
+C:\Spring\Projetos\ProjetoPersistencia\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\461696273.index
+\persistencia\src\main\java
